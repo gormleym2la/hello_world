@@ -1,5 +1,4 @@
-# hello_world
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Page Title</title>
